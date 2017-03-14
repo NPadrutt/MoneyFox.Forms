@@ -1,8 +1,6 @@
 ﻿using System;
-
 using MoneyFox.Forms.Models;
 using MoneyFox.Forms.ViewModels;
-
 using Xamarin.Forms;
 
 namespace MoneyFox.Forms.Views
